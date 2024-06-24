@@ -1,0 +1,7 @@
+Unlock-ADAccount : Los derechos de acceso son insuficientes para realizar la operaci¢n
+En l¡nea: 1 Car cter: 1
++ Unlock-ADAccount -Identity maria.paulet
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (maria.paulet:ADAccount) [Unlock-ADAccount], ADException
+    + FullyQualifiedErrorId : ActiveDirectoryServer:8344,Microsoft.ActiveDirectory.Management.Commands.UnlockADAccount
+ 

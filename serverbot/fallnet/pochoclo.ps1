@@ -1,0 +1,1 @@
+Get-ADUser -Filter 'Name -like "scanner*"' -Properties LockedOut | Format-Table Name,LockedOut -A > 'C:\serverbot\fallnet\1.txt'
